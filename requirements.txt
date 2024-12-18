@@ -1,5 +1,5 @@
- streamlit
+streamlit
 pandas 
-numpy
- LinearRegression
- matplotlib.pyplot 
+numpy 
+LinearRegression
+matplotlib.pyplot 
