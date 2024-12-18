@@ -1,5 +1,6 @@
 streamlit
-pandas 
-numpy 
-LinearRegression
-matplotlib.pyplot 
+pandas
+numpy
+scikit-learn
+matplotlib
+
